@@ -1,0 +1,7 @@
+#success_message{ display: none;}
+legend{
+    text-transform: uppercase;
+}
+.form-horizontal .has-feedback .form-control-feedback{
+    right: 66px;
+}

@@ -1,0 +1,19 @@
+#success_message{ display: none;}
+legend{
+    text-transform: uppercase;
+}
+.form-horizontal .has-feedback .form-control-feedback{
+    right: 66px;
+}
+.oke{
+    width: 55%;
+    margin: 15px 107px !important;
+    display: flex;
+    justify-content: space-between;
+}
+.w-50{
+    width:  auto;
+}
+#connect{
+    display: none;
+}
